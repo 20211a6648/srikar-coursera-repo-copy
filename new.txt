@@ -1,2 +1,8 @@
 "Hello This is a New File"
 "This is last line"
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
